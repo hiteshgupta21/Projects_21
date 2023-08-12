@@ -1,7 +1,1 @@
- This project is based on the working of auto correction for grammatical errors. This is a software function that automatically makes or suggests corrections for any mistake either in spelling or grammar while typing. The project i.e. grammatical machine correction focuses on writing any long texts, books or novels in a highly correct format by removing any extra full stops, areas and dividing the long paragraphs into shorter ones. It mechanically detects anywhere between four to six full stops and then creates a new paragraph.
- 
-This software is developed using C language. Moreover this software has one distinctive feature, that it can correct all the grammatical errors itself. It can consequently address any number of information mistakes in texting, email and electronic communications. 
-
-Let’s take an example, the text “I am going to supermarket" would not get affected by typical auto correction systems, when the user most likely had the intent to write "I am going to the supermarket". But such type of mistakes are easily detected by the virtue of this software.
- 
-The major role of this project is that it creates a software-based surrounding making the system capable of sleuthing and correcting any English mistakes. Therefore, the main objective or goal of this project is to write English without any grammatical or spelling errors. Also this project is based on a much known domain i.e., Software Testing. This software can rectify incalculable data mistakes in written transmission such as emails, instant electronic communication etc.
+The following repository contains the code of all my projects developed during my undergraduate years.
